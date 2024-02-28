@@ -2,4 +2,4 @@
  
  Primeiro repositório do curso de Git e GitHub.
 
-Repositório criado durante uma aula do professor Gustavo Guanabara, no youtube.
+Repositório criado durante uma aula do **professor Gustavo Guanabara**, no *youtube*.
